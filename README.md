@@ -10,9 +10,9 @@ into practical and reliable solutions.
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 Software Engineering Student
+-  Software Engineering Student
 -  Interested in **Software Development & Software Engineering**
 -  Exploring **Machine Learning & Deep Learning**
 -  Interested in **Cybersecurity**

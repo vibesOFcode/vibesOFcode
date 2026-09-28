@@ -68,7 +68,7 @@ computer science, and analytical problem-solving.
 
 ---
 
-###  Full Stack Engineer — Skills CF
+### 🔹  Full Stack Engineer — Skills CF
 **Internship · Jul 2025 – Sep 2025 · 3 months**  
  Paris, Île-de-France, France · Remote
 
